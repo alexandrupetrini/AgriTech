@@ -1,14 +1,5 @@
-/*
-The config.js file is used by:
-- drop_db.js
-- create_db.js
-- create_table.js
-- store_records.js
-- read_table.js
-- retrieve.js
-- send.js
-*/
 const databaseOptions = {
+  database: "agritech-ttn",
   host: "localhost",
   user: "agritech",
   password: "agritech"

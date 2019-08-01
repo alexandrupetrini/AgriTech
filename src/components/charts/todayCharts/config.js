@@ -1,5 +1,5 @@
 const databaseOptions = {
-  database: "agritech-ttn",
+  database: "agritech_ttn",
   host: "localhost",
   user: "agritech",
   password: "agritech"
